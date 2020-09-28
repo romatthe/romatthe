@@ -1,9 +1,5 @@
-<img align="center" src="https://github.com/romatthe/romatthe/blob/master/walking.gif" alt="hey there" width=350px height=350px />
+### 👋 HOWDY, I'M ROBIN! 👋
 
-### Howdy, I'm Robin!
-
-```rust
-fn main() {
-    println!("Howdy!");
-}
-```
+<div style="text-align:center">
+  <img src="https://github.com/romatthe/romatthe/blob/master/walking.gif" alt="hey there" width=350px height=350px />
+</div>
